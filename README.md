@@ -1,3 +1,4 @@
+<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/ecab51aa-dbaa-422c-8bee-baebcf5b38bb" />
 # 📄 Resume Match Scorer
 
 AI-based Resume & Job Description Match Scoring System built using Streamlit and NLP.
@@ -30,4 +31,5 @@ It also explains the reason behind the score and highlights:
 ---
 
 ## 📂 Project Structure
+
 
